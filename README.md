@@ -1,7 +1,8 @@
 # nodes.js
-nodes.js is a nodes/particles animation useable for backgrounds
+An *attempted* lighter version of the version over at this [project page](https://oguzhaneroglu.com/projects/nodes.js/).
+All rights reserved, please see the original repository for the original source code.
 
-Visit [project page](https://oguzhaneroglu.com/projects/nodes.js/) for example.
+nodes.js is a nodes/particles animation useable for backgrounds
 
 ### Init
 
@@ -9,6 +10,7 @@ Visit [project page](https://oguzhaneroglu.com/projects/nodes.js/) for example.
 <!-- <nodes.js embedding> -->
 <script type="text/javascript" src="js/nodes.js"></script>
 <script type="text/javascript">
+    //NOTE: I need to update this
     var nodesjs = new NodesJs({
         id: 'nodes',
         width: window.innerWidth,
