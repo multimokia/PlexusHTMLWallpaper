@@ -1,0 +1,15 @@
+{
+  "name": "plexus-calc",
+  "collaborators": [
+    "multimokia <multimokia3@gmail.com>"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "plexus_calc_bg.wasm",
+    "plexus_calc.js",
+    "plexus_calc.d.ts"
+  ],
+  "module": "plexus_calc.js",
+  "types": "plexus_calc.d.ts",
+  "sideEffects": false
+}
